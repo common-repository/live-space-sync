@@ -1,0 +1,8 @@
+Sorry I'm lazy creating the offline documents, please visit my blog.
+
+
+English installation guide:
+http://privism.org/blog/live-sync/
+
+Chinese installation guide:
+http://priv.tw/blog/msn-sync-modified/
